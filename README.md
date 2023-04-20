@@ -1,3 +1,4 @@
 # Python-programs
 1. Singly Linked List
-2. Finding the shortest path in a connected graph (Dijkstra's Algorithm)
+2. Doubly Linked List
+3. Finding the shortest path in a connected graph (Dijkstra's Algorithm)
